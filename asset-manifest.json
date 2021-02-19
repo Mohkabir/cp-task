@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cp-task/static/css/main.4796e6d7.chunk.css",
+    "main.js": "/cp-task/static/js/main.9ee956d3.chunk.js",
+    "main.js.map": "/cp-task/static/js/main.9ee956d3.chunk.js.map",
+    "runtime-main.js": "/cp-task/static/js/runtime-main.0639665a.js",
+    "runtime-main.js.map": "/cp-task/static/js/runtime-main.0639665a.js.map",
+    "static/js/2.9e66fa05.chunk.js": "/cp-task/static/js/2.9e66fa05.chunk.js",
+    "static/js/2.9e66fa05.chunk.js.map": "/cp-task/static/js/2.9e66fa05.chunk.js.map",
+    "index.html": "/cp-task/index.html",
+    "precache-manifest.492d0e09e4ec457fbc5012a9e2d358c9.js": "/cp-task/precache-manifest.492d0e09e4ec457fbc5012a9e2d358c9.js",
+    "service-worker.js": "/cp-task/service-worker.js",
+    "static/css/main.4796e6d7.chunk.css.map": "/cp-task/static/css/main.4796e6d7.chunk.css.map",
+    "static/js/2.9e66fa05.chunk.js.LICENSE.txt": "/cp-task/static/js/2.9e66fa05.chunk.js.LICENSE.txt",
+    "static/media/Ellipse2.jpg": "/cp-task/static/media/Ellipse2.5e2d1d99.jpg",
+    "static/media/Ellipse3.jpg": "/cp-task/static/media/Ellipse3.1dabe7b0.jpg",
+    "static/media/Ellipse4.jpg": "/cp-task/static/media/Ellipse4.d34c1876.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0639665a.js",
+    "static/js/2.9e66fa05.chunk.js",
+    "static/css/main.4796e6d7.chunk.css",
+    "static/js/main.9ee956d3.chunk.js"
+  ]
+}
